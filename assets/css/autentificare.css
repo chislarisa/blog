@@ -1,0 +1,69 @@
+* {
+	padding: 0;
+	margin:0;
+	border: 0;
+}
+
+body{
+	width: 100%;
+	background-color: black;
+	padding: 0px;
+	margin:0px;
+	border: 0px;
+
+
+}
+
+div.background-image{
+
+width:100%;
+height:100%;
+}
+.background-image img{
+	width:100%;
+    height:100%;
+}
+
+.chenar{
+	
+	position:absolute;
+	width:30%;
+	height:25%;
+	top:37%;
+	left:41%;
+}
+
+.aaute{
+	background-color: #8cbcbe;
+	position:absolute;
+	top:42%;
+	left:42.5%;
+	width:15%;
+	font-size:20px;
+	font-family: helvetica;
+	font-weight: bold;
+}
+
+.chenar p{
+	color:#8cbcbe;
+}
+.label{
+	color:white;
+}
+input.submit {
+	color:black;
+	background-color: #8cbcbe;
+	position:relative;
+	top:2px;
+	width: 15%;
+	border-radius: 2px;
+	
+}
+#nume{
+	position:relative;
+	top:2px;
+}
+#parola{
+	position:relative;
+	top:2px;
+}
